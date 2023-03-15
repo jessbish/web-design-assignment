@@ -1,11 +1,11 @@
-*{
-  box-sizing: border-box;
-}
-
 @import url("normalize.css");
-
-/* -------------------- GLOBAL DEFAULTS */
-
-.html {
-  background-color:saddlebrown
-  font-color:
+nav{ 
+  background-color: #e39b60;
+  width: 2000px;
+  height: 100px
+}
+a{
+  font-size:xx-large;
+  font-family: helvetica;
+  color: white;
+}
