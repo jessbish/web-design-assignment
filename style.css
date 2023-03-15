@@ -1,2 +1,11 @@
-h1{
-  color: green;
+*{
+  box-sizing: border-box;
+}
+
+@import url("normalize.css");
+
+/* -------------------- GLOBAL DEFAULTS */
+
+.html {
+  background-color:saddlebrown
+  font-color:
