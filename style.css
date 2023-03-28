@@ -1,135 +1,82 @@
 @import url("normalize.css");
 header{
    text-align: center;
-   font-family: 'Courier New', Courier, monospace; 
+   font-family: "gambado-sans-forte", sans-serif;
+   font-style: normal; 
    color:#f6efde;
    font-size: 65px;
   border-radius: 25px;
   background: #43504B;
   padding: 20px;
-  width: 1465px;
+  width: 1463px;
   height: 100px;
 }
   
-  h1{
-    text-align: center;
-    color:#f6efde;
+
+h1{
+  text-align:left;
+  color:#f6efde;
+  font-family: "gambado-sans-forte", sans-serif;
+   font-style: normal; 
     font-size: 55px;
     border-radius: 25px;
-  background: #90b1aa;
+  background: #D66836;
   padding: 20px;
-  width: 1000px;
-  height: 60px;
-  margin: auto;
-  width: 60%;
+  width: 1400px;
+  height: 250px;
   padding: 20px;
+  position:absolute;
+  z-index: 3;
+  top:80px;
 }
 
-p{
-  margin:auto;
-}
-
-p1{ 
-   font-family: 'Courier New', Courier, monospace; 
-   color:#f6efde;
-   font-size: 50px;
-  border-radius: 25px;
-  background: #2b1c16;
-  padding: 20px;
-  width: 1465px;
-  height: 100px;
-  }
-
-  p2{ 
-    font-family: 'Courier New', Courier, monospace; 
-    color:#f6efde;
-    font-size: 50px;
-   border-radius: 25px;
-   background: #43504B;
-   padding: 20px;
-   width: 1465px;
-   height: 100px;
-   }
-
-   p3{ 
-    font-family: 'Courier New', Courier, monospace; 
-    color:#f6efde;
-    font-size: 50px;
-   border-radius: 25px;
-   background: #90B1AA;
-   padding: 20px;
-   width: 1465px;
-   height: 100px;
-   }
- 
-   p4{ 
-    font-family: 'Courier New', Courier, monospace; 
-    color:#f6efde;
-    font-size: 50px;
-   border-radius: 25px;
-   background: #3A5439;
-   padding: 20px;
-   width: 1465px;
-   height: 100px;
-   }
-   
-   p5{ 
-    font-family: 'Courier New', Courier, monospace; 
-    color:#2b1c16;
-    font-size: 50px;
-   border-radius: 25px;
-   background: #f6efde;
-   padding: 20px;
-   width: 1465px;
-   height: 100px;
-  
-   }
-   
-   p6{ 
-    font-family: 'Courier New', Courier, monospace; 
-    color:#f6efde;
-    font-size: 50px;
-   border-radius: 25px;
-   background: #Fc9797;
-   padding: 20px;
-   width: 1465px;
-   height: 100px;
-   }
-   p7{ 
-    font-family: 'Courier New', Courier, monospace; 
-    color:#f6efde;
-    font-size: 50px;
-   border-radius: 25px;
-   background: #D66836;
-   padding: 20px;
-   width: 1465px;
-   height: 100px;
-   }
-
-   .fa {
-    padding: 20px;
-    font-size: 20px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-  }
-  
-  .fa:hover {
-    opacity: 0.7;
-  }
-
-  .fa-instagram {
-    color: white;
-  }
-  .topnav {
-    background-color:#f6efde;
-    overflow: hidden;
-}
-.topnav a {
-    float: left;
-    color: #2b1c16;
-    text-align: center;
-    padding: 14px 16px;
-    font-size: 17px;
+h2{
+  text-align:left;
+  color:#f6efde;
+  font-family: "gambado-sans-forte", sans-serif;
+   font-style: normal; 
+    font-size: 55px;
     border-radius: 25px;
+  background: #90B1AA;
+  padding: 20px;
+  width: 1300px;
+  height: 250px;
+  padding: 20px; 
+  position:absolute;
+  z-index: 3;
+  top:300px;
+}
+
+h3{text-align:left;
+  color:#f6efde;
+  font-family: "gambado-sans-forte", sans-serif;
+   font-style: normal; 
+    font-size: 55px;
+    border-radius: 25px;
+  background: #Fc9797;
+  padding: 20px;
+  width: 1200px;
+  height: 250px;
+  padding: 20px; 
+  position:absolute;
+  z-index: 3;
+  top:500px;
+}
+
+body{
+  background-color:#2B1C16;
+}
+
+
+
+  ----------------------------COLOUR PALLETE---------------------------------------
+  p23{
+colour:#2B1C16
+#43504B
+#90B1AA
+#3A5439
+#F6EFDE
+#Fc9797
+#D66836
   }
+---------------------------------------------------------------------------------
