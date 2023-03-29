@@ -29,7 +29,9 @@ h1{
   z-index: 3;
   top:80px;
 }
-
+h1:hover{
+  background-color:#a1461b;
+}
 h2{
   text-align:left;
   color:#f6efde;
@@ -47,6 +49,10 @@ h2{
   top:300px;
 }
 
+h2:hover{
+  background-color:#488174;
+}
+
 h3{text-align:left;
   color:#f6efde;
   font-family: "gambado-sans-forte", sans-serif;
@@ -61,6 +67,10 @@ h3{text-align:left;
   position:absolute;
   z-index: 3;
   top:500px;
+}
+
+h3:hover{
+  background-color:#b55e5e;
 }
 
 body{
